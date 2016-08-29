@@ -7,6 +7,12 @@
     "engines": {
         "vscode": "^1.0.0"
     },
+    "homepage": "https://github.com/ashhitch/vs-code-css-comments",
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/ashhitch/vs-code-css-comments.git"
+    },
+    "bugs": "https://github.com/ashhitch/vs-code-css-comments/issues",
     "categories": [
         "Snippets"
     ],
