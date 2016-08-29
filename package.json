@@ -2,10 +2,10 @@
     "name": "vs-code-css-comments",
     "displayName": "VS Code CSS Comments",
     "description": "Visual Studio CSS Comment Snippets",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "ashhitch",
     "engines": {
-        "vscode": "^1.0.1"
+        "vscode": "^1.0.0"
     },
     "homepage": "https://github.com/ashhitch/vs-code-css-comments",
     "repository": {
