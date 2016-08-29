@@ -1,0 +1,39 @@
+{
+	"comment-block": {
+		"prefix": "comment-block",
+		"body": "\n/**\n *\n * ${1:Block comment}\n *\n */\n\n",
+		"description": "Comment: Block style",
+		"scope": ""
+	},
+	"comment-section-header": {
+		"prefix": "comment-section-header",
+		"body": "\n/*=============================================\n=            ${1:Section comment block}            =\n=============================================*/\n\n$2\n\n",
+		"description": "Comment: Section header",
+		"scope": ""
+	},
+	"comment-section-footer": {
+		"prefix": "comment-section-footer",
+		"body": "\n/*=====  End of ${1:Section comment block}  ======*/\n\n",
+		"description": "Comment: Section footer",
+		"scope": ""
+	},
+
+	"comment-section": {
+		"prefix": "comment-section",
+		"body": "\n/*=============================================\n=            ${1:Section comment block}            =\n=============================================*/\n\n$2\n\n/*=====  End of ${1:Section comment block}  ======*/\n\n",
+		"description": "Comment: Full section",
+		"scope": ""
+	},
+	"comment-subsection": {
+		"prefix": "comment-subsection",
+		"body": "\n/*----------  ${1:Subsection comment block}  ----------*/\n\n",
+		"description": "Comment: Subsection",
+		"scope": ""
+	},
+	"comment": {
+		"prefix": "comment",
+		"body": "\n/* ${1:Comment} */\n\n",
+		"description": "Comment: Single-line block",
+		"scope": ""
+	}
+}
