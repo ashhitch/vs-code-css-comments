@@ -68,11 +68,17 @@ Tab trigger: `comment-block` + `enter`
  * Block comment
  *
  */
+
+
 ## Release Notes
 
 
 ### 1.0.0
 
 Initial release of css comment extension
+
+### 1.0.1
+
+Adding Icon
 
 
