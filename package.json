@@ -2,7 +2,7 @@
     "name": "vs-code-css-comments",
     "displayName": "VS Code CSS Comments",
     "description": "Visual Studio CSS Comment Snippets",
-    "version": "0.0.2",
+    "version": "1.0.2",
     "publisher": "ashhitch",
     "engines": {
         "vscode": "^1.0.0"
@@ -28,7 +28,7 @@
                 "path": "./snippets/snippets.json"
             },
              {
-                "language": "sass",
+                "language": "scss",
                 "path": "./snippets/snippets.json"
             }
         ]

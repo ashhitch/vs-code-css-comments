@@ -68,6 +68,11 @@ Tab trigger: `comment-block` + `enter`
  * Block comment
  *
  */
+ ```
+
+
+ ## Bugs 
+ Please report any bugs on the [GitHub repo](https://github.com/ashhitch/vs-code-css-comments/issues)
 
 
 ## Release Notes
@@ -80,5 +85,11 @@ Initial release of css comment extension
 ### 1.0.1
 
 Adding Icon
+
+
+### 1.0.2
+
+Fix SCSS / SASS support
+
 
 
