@@ -7,9 +7,11 @@ CSS comments made easy and consistent with these VS Code Snippets.
 
 ## Instructions
 
+Start typing one of the below commands and then hit `enter`
+
 #### Simple Comment
 
-Tab trigger: `comment` + `enter`
+Trigger: `comment` + `enter`
 
 ```css
 /* Comment */
@@ -18,7 +20,7 @@ Tab trigger: `comment` + `enter`
 
 #### Section
 
-Tab trigger: `comment-section` + `enter`
+Trigger: `comment-section` + `enter`
 
 
 ```css
@@ -33,7 +35,7 @@ Tab trigger: `comment-section` + `enter`
 
 #### Section Header
 
-Tab trigger: `comment-section-header` + `enter`
+Trigger: `comment-section-header` + `enter`
 
 ```css
 /*=============================================
@@ -43,7 +45,7 @@ Tab trigger: `comment-section-header` + `enter`
 
 #### Section Footer
 
-Tab trigger: `comment-section-footer` + `enter`
+Trigger: `comment-section-footer` + `enter`
 
 ```css
 /*=====  End of Section comment block  ======*/
@@ -51,7 +53,7 @@ Tab trigger: `comment-section-footer` + `enter`
 
 #### Subsection
 
-Tab trigger: `comment-subsection` + `enter`
+Trigger: `comment-subsection` + `enter`
 
 ```css
 /*----------  Subsection comment block  ----------*/
@@ -60,7 +62,7 @@ Tab trigger: `comment-subsection` + `enter`
 
 #### Block Comment
 
-Tab trigger: `comment-block` + `enter`
+Trigger: `comment-block` + `enter`
 
 ```css
 /**
@@ -70,26 +72,14 @@ Tab trigger: `comment-block` + `enter`
  */
  ```
 
-
  ## Bugs 
  Please report any bugs on the [GitHub repo](https://github.com/ashhitch/vs-code-css-comments/issues)
 
 
+ ## Author
+ [Ash Hitchcock](https://www.ashleyhitchcock.com)
+
+
 ## Release Notes
 
-
-### 1.0.0
-
-Initial release of css comment extension
-
-### 1.0.1
-
-Adding Icon
-
-
-### 1.0.2
-
-Fix SCSS / SASS support
-
-
-
+Moved to Changelog
