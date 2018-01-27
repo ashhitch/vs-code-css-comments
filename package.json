@@ -1,22 +1,12 @@
 {
-    "name": "vs-code-css-comments",
-    "displayName": "VS Code CSS Comments",
-    "description": "Visual Studio CSS Comment Snippets",
-    "version": "1.0.3",
-    "publisher": "ashhitch",
+    "name": "vscode-css-comment-snips",
+    "displayName": "VS Code CSS Comment Snips",
+    "description": "VS Code CSS Comment Snips",
+    "version": "1.0.0",
+    "publisher": "namanyayg",
     "engines": {
         "vscode": "^1.0.0"
     },
-    "homepage": "https://github.com/ashhitch/vs-code-css-comments",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/ashhitch/vs-code-css-comments.git"
-    },
-    "bugs": "https://github.com/ashhitch/vs-code-css-comments/issues",
-    "categories": [
-        "Snippets"
-    ],
-    "icon": "icon.png",
     "contributes": {
         "snippets": [{
                 "language": "css",
@@ -24,6 +14,10 @@
             },
             {
                 "language": "less",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "stylus",
                 "path": "./snippets/snippets.json"
             },
             {
