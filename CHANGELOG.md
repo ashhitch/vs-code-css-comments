@@ -1,3 +1,6 @@
+### 1.0.4
+
+Adding CoffeScript / TypeScript / solidity support
 
 ### 1.0.3
 

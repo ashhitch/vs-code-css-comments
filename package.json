@@ -2,7 +2,7 @@
     "name": "vs-code-css-comments",
     "displayName": "VS Code CSS Comments",
     "description": "Visual Studio CSS Comment Snippets",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "publisher": "ashhitch",
     "engines": {
         "vscode": "^1.0.0"
@@ -31,16 +31,39 @@
                 "path": "./snippets/snippets.json"
             },
             {
+                "language": "sass",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "sass-indented",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "stylus",
+                "path": "./snippets/snippets.json"
+            },
+            {
                 "language": "html",
                 "path": "./snippets/snippets.json"
-
             },
             {
                 "language": "jsx",
                 "path": "./snippets/snippets.json"
             },
             {
+                "language": "typescript",
+                "path": "./snippets/snippets.json"
+            },
+            {
                 "language": "javascript",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "coffeescript",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "solidity",
                 "path": "./snippets/snippets.json"
             }
         ]
