@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/ashhitch/vs-code-css-comments.svg?style=svg)](https://circleci.com/gh/ashhitch/vs-code-css-comments)
+
 # VS Code CSS Comments 
 
 ## Features
