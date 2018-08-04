@@ -23,6 +23,10 @@
                 "path": "./snippets/snippets.json"
             },
             {
+                "language": "postcss",
+                "path": "./snippets/snippets.json"
+            },
+            {
                 "language": "less",
                 "path": "./snippets/snippets.json"
             },
