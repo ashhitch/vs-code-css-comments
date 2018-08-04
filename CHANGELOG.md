@@ -1,3 +1,8 @@
+### 1.0.5
+
+Adding postcss support (thanks PR @Ahrengot)
+Add support for Vue files
+
 ### 1.0.4
 
 Adding CoffeScript / TypeScript / solidity support

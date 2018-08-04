@@ -2,7 +2,7 @@
     "name": "vs-code-css-comments",
     "displayName": "VS Code CSS Comments",
     "description": "Visual Studio CSS Comment Snippets",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "publisher": "ashhitch",
     "engines": {
         "vscode": "^1.0.0"
@@ -69,7 +69,15 @@
             {
                 "language": "solidity",
                 "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "vue",
+                "path": "./snippets/snippets.json"
             }
         ]
-    }
+    },
+    "devDependencies": {
+        "vsce": "^1.32.0",
+        "vscode": "^1.1.5"
+      }
 }
