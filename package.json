@@ -73,6 +73,10 @@
             {
                 "language": "vue",
                 "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "sql",
+                "path": "./snippets/snippets.json"
             }
         ]
     },
